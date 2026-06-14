@@ -122,7 +122,7 @@ Realtime device control system using ESP32 and Supabase Realtime.
 ## 🌐 Connect
 
 * Portfolio: https://firdous-rahaman.vercel.app
-* GitHub: https://github.com/firdouscgec
+* GitHub: https://github.com/smart-nexus-ai
 * Email: [firdousrahaman.tfg@gmail.com](mailto:firdousrahaman.tfg@gmail.com)
 
 ---
